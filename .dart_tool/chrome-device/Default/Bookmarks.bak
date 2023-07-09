@@ -1,0 +1,170 @@
+{
+   "checksum": "d2ccb1da84255d6362f9a0d303f1653f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13331302752887696",
+            "date_last_used": "0",
+            "guid": "33bb99cd-14e6-4321-9d8b-efa94d369381",
+            "id": "13",
+            "name": "Mail - tanjid.amran@akijfood.com",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://mail.akijventure.com/owa/"
+         }, {
+            "children": [ {
+               "date_added": "13331542014931164",
+               "date_last_used": "13331542118679296",
+               "guid": "74fea5c8-b718-4aaf-b680-8d0fd88e5c35",
+               "id": "15",
+               "name": "ERP",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://ngb.akijvg.net/HomePage.aspx"
+            }, {
+               "date_added": "13331302710692509",
+               "date_last_used": "13331542252781639",
+               "guid": "80f4f127-afda-4f17-bf86-a79ddef73158",
+               "id": "16",
+               "name": "All groups - 3CX",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://akijventure.3cx.asia/webclient/#/people"
+            }, {
+               "date_added": "13331545164803492",
+               "date_last_used": "0",
+               "guid": "d4df84e4-9a2e-451e-879c-f19854d66d3d",
+               "id": "17",
+               "name": "Mail - tanjid.amran@akijfood.com",
+               "show_icon": false,
+               "source": "sync",
+               "type": "url",
+               "url": "https://mail.akijventure.com/owa/#path=/mail"
+            } ],
+            "date_added": "13331542161915636",
+            "date_last_used": "0",
+            "date_modified": "13331545164803492",
+            "guid": "1ef10d6d-fd3d-41f9-b5c9-c171094e30f6",
+            "id": "14",
+            "name": "Office",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "date_added": "13331542877410265",
+            "date_last_used": "0",
+            "guid": "5b2bb3fd-c6c4-4ec9-bec4-608e41f2b239",
+            "id": "18",
+            "name": "YouTube",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         } ],
+         "date_added": "13331562217422693",
+         "date_last_used": "0",
+         "date_modified": "13331542877410265",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13331540540000000",
+                  "date_last_used": "0",
+                  "guid": "7fc95c32-1607-4839-9d5c-2e680e0a59ec",
+                  "id": "8",
+                  "name": "Get Help",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13331540540000000",
+                  "date_last_used": "0",
+                  "guid": "b3ff299c-ce86-4a14-b965-52dcb18dd2d0",
+                  "id": "9",
+                  "name": "Customize Firefox",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13331540540000000",
+                  "date_last_used": "0",
+                  "guid": "49b7a55e-31ce-42e0-92eb-1a37e3a7e23f",
+                  "id": "10",
+                  "name": "Get Involved",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13331540540000000",
+                  "date_last_used": "0",
+                  "guid": "a49ac12a-7401-4aa0-9695-552e85adf8b2",
+                  "id": "11",
+                  "name": "About Us",
+                  "show_icon": false,
+                  "source": "sync",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               } ],
+               "date_added": "13331541613340718",
+               "date_last_used": "0",
+               "date_modified": "13331541613340718",
+               "guid": "8d512af3-8a3e-4acf-b8cb-e9bddb308275",
+               "id": "7",
+               "name": "Mozilla Firefox",
+               "source": "unknown",
+               "type": "folder"
+            } ],
+            "date_added": "13331541613340542",
+            "date_last_used": "0",
+            "date_modified": "13331541613340542",
+            "guid": "abd7cdb3-63a2-4f76-9a40-d7e3dc2db89f",
+            "id": "6",
+            "name": "Mozilla Firefox Bookmarks Menu",
+            "source": "unknown",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13331542074345695",
+            "date_last_used": "0",
+            "date_modified": "13331542074345695",
+            "guid": "1c61e175-dae7-4be3-ada5-21e6b1c6a116",
+            "id": "12",
+            "name": "Office",
+            "source": "unknown",
+            "type": "folder"
+         } ],
+         "date_added": "13331562217422696",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13331562217422697",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CpsBCh4IiIECEghQ9UzOiAEAACoOEAAYASAEKAQwADgAQAASABpYbkhsK1B1aVhvOWlXV3BTN21ybS9OQTNVbTArdUM5UUl0eXdrazRtQnErVk84a2dIaTF6NFRSb3Z5UjN5V0xvYm4yelJNb0ZOeURGT3c0RERKRlRMSVE9PSABKhhWSEY1LzZkRmlZWERFU0RqcUVOYStnPT2gBgwSqAEIEhKjAQocVzRrbjBhRFBMbCtyaUUyMDlBRUlWOUZmQ2UwPRIkNWIyYmIzZmQtYzZjNC00ZWM5LWJlYzQtNjA4ZTQxZjJiMjM5GAAgAigCMLeWxvKMMTia+6jpjDFA1J3G8owxShxtL3NHZ0hTWU9CeXpoN2xlZFh4UjBjT2k4OHM9Wh8iHfUvTm5ESm11T3NnakpEdWxyTmlPeW9JVGwwRGc9ZTj5OTMSqAEIERKjAQocaEJEOUZ4QXYwNUU4S29saCtqQ2V2N2pqWVZVPRIkZDRkZjg0ZTQtOWEyZS00NTFlLTg3OWMtZjE5ODU0ZDY2ZDNkGAAgACgAMIL3tOqMMTjuybTqjDFA7sm06owxShxMTWNKeXRodmsvYVFmSXNwcWxUVmN0M0o0czQ9Wh8iHdxKdVpNRWpXVk4zV1A3bzhxZG1zNENaTW5tYUU9Zag+KGgSqAEIEBKjAQocdHMxa2g4Q1BwTnpFdkw2U1hrNnlVVGFsdDFBPRIkODBmNGYxMjctYWZkYS00ZjE3LWJmODYtYTc5ZGRlZjczMTU4GAAgACgAMKn6g+mMMTjSo+b2izFA0qPm9osxShxWemJaTVdVY2pjMExFbFJIUzRxby9EZjJYMG89Wh8iHblUZ1ZQNHJNQUJ6Y1Rqc3A1b2doUnJoTmJoWWM9ZSy5bJ4SpwEIDxKiAQocMjEyMlJUbW84RzBvWVJLYnBRMjlSYzlIbGRNPRIkNzRmZWE1YzgtYjcxOC00YWFmLWI2ODAtOGQwZmQ4OGU1YzM1GAAgACgAMICl/eiMMTiQhPXojDFAkIT16IwxShxHbWhUODV5RitmeU1sNENSV3grVzQ4b3JUNmM9Wh4iHHJVR0dYZThmMDVFVEtpT0p4eElGUnhZTnBEVT1lrod/XxKoAQgOEqMBChxmQnlxd21iekRvd3NydFV2bDVRSy9sVXNtb009EiQxZWYxMGQ2ZC1mZDNkLTQxZjktYjVjOS1jMTcxMDk0ZTMwZjYYACAAKAAw/6T96IwxOKWl/eiMMUClpf3ojDFKHEVVKytzWndoYTN3VHBuUlIzeW1tV1BSOS96dz1aHyId6mxORUFiUDMzLzRFUmFHS3dKTC9oYzNXRlAxUT1lAAAAABKnAQgGEqIBChxjS2dzUGtoUW8xWlJiN0NSSTVOL0NxRklNYmc9EiRhYmQ3Y2RiMy02M2EyLTRmNzYtOWE0MC1kN2UzZGMyZGI4OWYYACAAKAAwmIL16IwxOOWC9eiMMUDlgvXojDFKHHU2Q3FXMWdUZ28wRjIwSENkc0twWmRyZm9BQT1aHiIcUUdUb2tWR3QyN0c1djQxd1JTR21uNTYwdjFvPWUAAAAAEqcBCAcSogEKHFJSeHBCVVErYXU5YVZsc0hwd3pSL1dJVitBST0SJDhkNTEyYWYzLThhM2UtNGFjZi1iOGNiLWU5YmRkYjMwODI3NRgAIAAoADCZgvXojDE4/oL16IwxQP6C9eiMMUocYkluRzJmUkRtWkw2MkJJY3pRL0ZIUzVldXQ4PVoeIhw3VExLODdkVWNSRmlHOHVrY3l6VVN1SUw4d1k9ZQAAAAASiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkMjY2ZDY2MjEtYjBkNi01NjI3LThkZDktNWFiZmZiNzMyMTIzGAAgACgAMObZ0vOLMTjt2tLzizFA7drS84sxShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKnAQgMEqIBChxVWXRUZFk2cFNnOE1wMXhGbzNFTk85YmdPTkE9EiQxYzYxZTE3NS1kYWU3LTRiZTMtYWRhNS0yMWU2YjFjNmExMTYYACAAKAAw/Pj36IwxOJ/59+iMMUCf+ffojDFKHGR5VERPZm5YU3lWQU1zZ3BtdDQ0bWdSSEdMZz1aHiIcamplMmF2YjY4TXFVNnFKUXpJZ0ZQQjBYYzdNPWUAAAAAEqgBCAsSowEKHHZjTm1BNVFPY2ZrMklvZGNnalY0b0RDZWJSdz0SJGE0OWFjMTJhLTc0MDEtNGFhMC05Njk1LTU1MmU4NWFkZjhiMhgAIAAoADCdgvXojDE49oP16IwxQPaD9eiMMUocdzFnL3ZsdDhNZ3VHWHU1V3A3UGljMzhrZHd3PVofIh3uU1hSS1lnZ2RXcnN1MktoRk10NE05TCtGM2pzPWUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJDEzMDNjNWMzLThjYzItNWYxOS1iYzg3LTExOGZhYTJkMGMyMhgAIAAoADDs2dLzizE4stzS84sxQLLc0vOLMUoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASqAEIChKjAQoca3FuWUZrMmlxang3QmpGVnFGODVzVjduQmhVPRIkNDliN2E1NWUtMzFjZS00MmUwLTkyZWItMWEzN2UzYTdlMjNmGAAgACgAMJyC9eiMMTjcg/XojDFA3IP16IwxShxuNnZOVFdmbXFIOWxPTS9Vb01PSW1vSDM1SFE9Wh8iHd0rUHE4WGJMR3BaTzQwVkZwd3I4NEdHM2FFRnM9ZQAAAAASqAEICRKjAQocYlp6WjhpdGxsUmE5aDFrZ1ZHNFZvKzVwSHVJPRIkYjNmZjI5OWMtY2U4Ni00YTE0LWI5NjUtNTJkY2IxOGRkMmQwGAAgACgAMJuC9eiMMTi1g/XojDFAtYP16IwxShxYRDVEUkxya2ZuSUhtbkxCQ3lYNHh0aWx4d3c9Wh8iHbpmT1M4TzcrS1lnZ0lrNlhpdHZmazlDVHhiWHM9ZQAAAAASpwEICBKiAQocMkFtZ0cyY3JaR3VueVI5VTdtS3lYVUdpcWFZPRIkN2ZjOTVjMzItMTYwNy00ODM5LTlkNWMtMmU2ODBlMGE1OWVjGAAgACgAMJqC9eiMMTibg/XojDFAm4P16IwxShw3b1RsWHFINCtVOU1mRkRlOS9WOStzVVd3UW89Wh4iHHRXaXBReDdOY01BSjFpbmorSDFxaGNrNktLcz1lAAAAABKoAQgNEqMBChw2Z0g4SWJ0ZXNZNVFrQ0UwZ1NZbW1Hb3p3Mjg9EiQzM2JiOTljZC0xNGU2LTQzMjEtOWQ4Yi1lZmE5NGQzNjkzODEYACACKAIwtpbG8owxOPP06PaLMUDSncbyjDFKHHhNdE52cGRVeTB5SjN3TSs1d0xlc3lWTXc4cz1aHyIdqjc5bjBrdWFZZ3VQU2NORHFIUi9ieWNESnZCdz1lqD4oaBKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ5NTc2NzRhYS1hYmY0LTVmM2MtYWQ0Mi0yNTQ4NmJlNTJhYTMYACAAKAAw59nS84sxOIzb0vOLMUCM29LzizFKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAMAA4AA==",
+   "version": 1
+}
